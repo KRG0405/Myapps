@@ -18,7 +18,6 @@ data = {
 df = pd.DataFrame(data)
 st.dataframe(df)
 
-
 import streamlit as st
 import pandas as pd
 
